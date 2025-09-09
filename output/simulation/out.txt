@@ -1,0 +1,6 @@
+Year: simulation
+Estimated Box-counting Dimension: 23024.6996
+epsilon,box_count
+1.0000,1
+1.0000,1
+0.9999,10
